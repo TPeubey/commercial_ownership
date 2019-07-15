@@ -8,9 +8,12 @@
 <p>The script only modifies addresses with keywords or without keywords but which contains several address numbers.</p>
 
 <p>There are three type of addresses:</p>
-<p>- Correct address, ie: 40 Broad Street, Barry (CF62 7AD)</p>
-<p>- Address containing keywords (even, odd, inclusive), i.e: 5,24 to 33 (inclusive) Clos Yr Ardd, Cardiff (CF14 6HZ)</p>
-<p>- Address without keywords but which must be divided into several addressses, i.e: 36, 36A, 38 and 38A Countisbury Avenue, Cardiff</p>
+<p>- Correct address<br/>
+  ie: 40 Broad Street, Barry (CF62 7AD)</p>
+<p>- Address containing keywords (even, odd, inclusive)<br/>
+  i.e: 5,24 to 33 (inclusive) Clos Yr Ardd, Cardiff (CF14 6HZ)</p>
+<p>- Address without keywords but which must be divided into several addressses<br/>
+  i.e: 36, 36A, 38 and 38A Countisbury Avenue, Cardiff</p>
 
 ## Example of address that the script returns:
 

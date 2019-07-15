@@ -16,10 +16,10 @@
 
 #### Example: address with inclusive keyword
 
-input: 
-5,24 to 33 (inclusive) Clos Yr Ardd, Cardiff (CF14 6HZ)
-output: 
-5, Clos Yr Ardd, Cardiff (CF14 6HZ)
+<p>input: </p>
+<p>5,24 to 33 (inclusive) Clos Yr Ardd, Cardiff (CF14 6HZ)</p>
+<p>output: </p>
+<p>5, Clos Yr Ardd, Cardiff (CF14 6HZ)
 24, Clos Yr Ardd, Cardiff (CF14 6HZ)
 25, Clos Yr Ardd, Cardiff (CF14 6HZ)
 26, Clos Yr Ardd, Cardiff (CF14 6HZ)
@@ -29,7 +29,7 @@ output:
 30, Clos Yr Ardd, Cardiff (CF14 6HZ)
 31, Clos Yr Ardd, Cardiff (CF14 6HZ)
 32, Clos Yr Ardd, Cardiff (CF14 6HZ)
-33, Clos Yr Ardd, Cardiff (CF14 6HZ)
+33, Clos Yr Ardd, Cardiff (CF14 6HZ)</p>
 
 #### Example: address without keyword but need to be divided
 

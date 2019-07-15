@@ -2,15 +2,15 @@
 
 ## Description of the objective
 
-This project is about address data in England
+<p>This project is about address data in England</p>
 
-Some addresses need to be modified, i.e divide the addresses to have only one.
-The script only modiies addresses with keywords or without keywords but which contains several address numbers.
+<p>Some addresses need to be modified, i.e divide the addresses to have only one.</p>
+<p>The script only modiies addresses with keywords or without keywords but which contains several address numbers.</p>
 
-There are three type of addresses:
-- Correct address, ie: 40 Broad Street, Barry (CF62 7AD)
-- Address containing keywords (even, odd, inclusive), i.e: 5,24 to 33 (inclusive) Clos Yr Ardd, Cardiff (CF14 6HZ)
-- Address without keywords but which must be divided into several addressses, i.e: 36, 36A, 38 and 38A Countisbury Avenue, Cardiff
+<p>There are three type of addresses:</p>
+<p>- Correct address, ie: 40 Broad Street, Barry (CF62 7AD)</p>
+<p>- Address containing keywords (even, odd, inclusive), i.e: 5,24 to 33 (inclusive) Clos Yr Ardd, Cardiff (CF14 6HZ)</p>
+<p>- Address without keywords but which must be divided into several addressses, i.e: 36, 36A, 38 and 38A Countisbury Avenue, Cardiff</p>
 
 ## Example of address that the script returns:
 

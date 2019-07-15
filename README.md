@@ -19,7 +19,7 @@
 <p>input: </p>
 <p>5,24 to 33 (inclusive) Clos Yr Ardd, Cardiff (CF14 6HZ)</p>
 <p>output: </p>
-<p>5, Clos Yr Ardd, Cardiff (CF14 6HZ)
+<p>5, Clos Yr Ardd, Cardiff (CF14 6HZ)</br>
 24, Clos Yr Ardd, Cardiff (CF14 6HZ)
 25, Clos Yr Ardd, Cardiff (CF14 6HZ)
 26, Clos Yr Ardd, Cardiff (CF14 6HZ)
@@ -33,13 +33,13 @@
 
 #### Example: address without keyword but need to be divided
 
-input:
-36, 36A, 38 and 38A Countisbury Avenue, Cardiff
-output:
-36, Countisbury Avenue, Cardiff
+<p>input:</p>
+<p>36, 36A, 38 and 38A Countisbury Avenue, Cardiff</p>
+<p>output:</p>
+<p>36, Countisbury Avenue, Cardiff
 36A, Countisbury Avenue, Cardiff
 38, Countisbury Avenue, Cardiff
-38A, Countisbury Avenue, Cardiff
+38A, Countisbury Avenue, Cardiff</p>
 
 #### Example: More complex address
 - 1, 2, 7, 8 and 10 Blackbirds Way, St Mellons, Cardiff (CF3 5RE), 8, 9, 10, 14 and 15 Bluebell Drive, St Mellons, Cardiff (CF3 5RA), 2, 14 and 16 Drawlings Close, St Mellons, Cardiff (CF3 5RB), 1, 2, 4, 6, 8, 10, 11, 12, 13, 14, 16, 17, 18, 20, 22, 24, 25, 26 and 27 Arcon House, Blackbirds Way, St Mellons, Cardiff (CF3 5RF), 13-37 (Odds) St Mellons House, Blackbirds Way, St Mellons, Cardiff (CF3 5RE), 36-45 Avenue House, Bluebell Drive, St Mellons, Cardiff (CF3 5RA), 20-35 Mill House, Bluebell Drive, St Mellons, Cardiff (CF3 5RA), 1-47 (Odds) Elizabeth House, Drawlings Close, St Mellons, Cardiff (CF3 5RB), 1-10 Prince of Wales House, Eastern Close, St Mellons, Cardiff (CF3 5RD), 11-15 Jubilee House, Eastern Close, St Mellons, Cardiff (CF3 5RD) and 16-25 Ty'r Winch House, Eastern Close, St Mellons, Cardiff (CF3 5RD)
